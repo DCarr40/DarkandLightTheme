@@ -1,2 +1,2 @@
 # DarkandLightTheme
-Vanilla JS Dark and Light them toggle
+Dark and Light Theme Toggle using React
